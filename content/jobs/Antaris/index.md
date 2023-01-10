@@ -7,5 +7,5 @@ range: 'October 2022 - Present'
 url: 'https://antaris.industries'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Configure and maintain a secure working environment, including email, password management and web facing systems
+- Research security considerations related to extra solar colonization
