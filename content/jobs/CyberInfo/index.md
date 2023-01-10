@@ -7,6 +7,6 @@ range: 'January 2023 - Present'
 url: 'https://cyber.info'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Assisted in reviewing board bylaws
+- Collaborating with business partners to determine what the organization's tech stack will consist of, in line with business requirements
+- Enabling individuals to start a rewarding career within the cybersecurity industry by way of information sharing and general assistance
