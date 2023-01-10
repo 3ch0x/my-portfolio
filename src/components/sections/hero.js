@@ -59,29 +59,26 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Hello! My name is</h1>;
+  const two = <h2 className="big-heading">Aaron Fillmore.</h2>;
+  const three = <h3 className="big-heading">I'm a cybersecurity professional.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
+        I am a United States based Information Security Engineer with a passion for cybersecurity
+        and security within the privatized space industry. Currently, I’m focused on providing a
+        secure working environment to enable the advancement of the electricity generation industry
         at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        <a href="https://www.epri.com/" target="_blank" rel="noreferrer">
+          EPRI
         </a>
         .
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href="https://cyber.info" target="_blank" rel="noreferrer">
+      Check out my nonprofit!
     </a>
   );
 

@@ -19,7 +19,8 @@ const StyledAboutSection = styled.section`
   }
 `;
 const StyledText = styled.div`
-  ul.skills-list {
+  ul.skills-list,
+  ul.concept-list {
     display: grid;
     grid-template-columns: repeat(2, minmax(140px, 200px));
     grid-gap: 0 10px;
@@ -125,7 +126,28 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Splunk',
+    'SentinelOne EDR/XDR',
+    'CrowdStrike Falcon',
+    'FortiEDR, FortiSIEM, FortiOS, FortiDeceptor',
+    'Swimlane SOAR',
+    'Metasploit',
+    'Kali Linux',
+    'LogRhythm SIEM',
+    'NMAP',
+    'Wireshark',
+  ];
+  const concepts = [
+    'Risk Assessment & Management',
+    'Systems Engineering',
+    'Network Security',
+    'Incident Handling',
+    'Basic Penetration Testing',
+    'Working Python Knowledge',
+    'Working Powershell Knowledge',
+    'Meme Development',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,37 +157,42 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              I’ve been referred to as an “ultra geek” because of my love for technology and
+              security. Since I was a child, I’ve been tinkering with computers, bypassing my
+              father’s security measures and learning new things. I have in depth experience with a
+              vast array of <strong> SIEMs, SOARs, EDR/XDR Platforms</strong> and{' '}
+              <strong> Pentesting Tools</strong>.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              My past experience makes me a valuable asset to your business, with experience in
+              Network and Systems Engineering as well as Full Spectrum Managed Services.
+            </p>
+            <p>
+              Whenever I have time, I enjoy furthering my education with a fully equipped
+              <strong> Home Lab</strong> which includes a{' '}
+              <strong> FortiGate Firewall and Switch</strong>, <strong>ESXi Hypervisor</strong> with
+              <strong> Pentesting OSes</strong> and <strong> Log Management</strong> in addition to{' '}
+              <strong> TryHackMe</strong> and <strong> HackTheBox</strong> to continuously expand my
+              skill set.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Recently, I <a href="https://cyber.info">launched a nonprofit</a> that aims to empower
+              career growth with easy access to cybersecurity education.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>These are technologies that I have experience with:</p>
           </div>
 
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+          </ul>
+
+          <p>Here are some skills and concepts I am familiar with:</p>
+
+          <ul className="concept-list">
+            {concepts && concepts.map((concept, i) => <li key={i}>{concept}</li>)}
           </ul>
         </StyledText>
 
@@ -173,11 +200,11 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.webp"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
-              alt="Headshot"
+              alt="Head shot"
             />
           </div>
         </StyledPic>

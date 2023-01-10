@@ -15,6 +15,8 @@ import {
   IconPlayStore,
   IconStar,
   IconTwitter,
+  IconHackTheBox,
+  IconTryHackMe,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -31,6 +33,10 @@ const Icon = ({ name }) => {
       return <IconFolder />;
     case 'Fork':
       return <IconFork />;
+    case 'HackTheBox':
+      return <IconHackTheBox />;
+    case 'TryHackMe':
+      return <IconTryHackMe />;
     case 'GitHub':
       return <IconGitHub />;
     case 'Instagram':
