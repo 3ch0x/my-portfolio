@@ -66,9 +66,8 @@ const Hero = () => {
     <>
       <p>
         I am a United States based Information Security Engineer with a passion for cybersecurity
-        and security within the privatized space industry. Currently, I’m focused on providing a
-        secure working environment to enable the advancement of the electricity generation industry
-        at{' '}
+        and security within the privatized space industry. Currently, I’m focused on protecting a
+        secure working environment to enable the advancement of electricity generation at{' '}
         <a href="https://www.epri.com/" target="_blank" rel="noreferrer">
           EPRI
         </a>
