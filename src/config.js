@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'TryHackMe',
-      url: 'https://tryhackme.com/p/weet',
+      url: 'https://tryhackme.com/p/w33t',
     },
   ],
 
