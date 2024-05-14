@@ -8,9 +8,8 @@ url: 'https://www.epri.com/'
 ---
 
 - Identify and mitigate vulnerabilities and attacks within the EPRI computing environment
-- Research new threats, attacks and vulnerabilities that may affect the EPRI computing environment to learn how to identify and react to them
-- Assist in the development of new security architectures
-- Co-ordinate EPRI’s endpoint protection and participate in any required incident response
-- Share leadership responsibilities as delegated by project management
+- Research new threats, attacks and vulnerabilities that may affect the EPRI computing environment
+- Leverage research to develop advanced threats
+- Utilize offensive tooling within lab environments to test effectiveness of technical controls
+- Develop novel attacks surrounding current configurations and policies
 - Assist the management of Information Security in the development, implementation, verification and enforcement of security policies and guidelines
-- Assist in the development and maintenance of documentation that details our security environment, including but not limited to device build documents, policy documentation, topology diagrams, technical standards, operational procedures, and troubleshooting how to's
