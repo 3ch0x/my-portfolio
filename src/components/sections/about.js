@@ -131,21 +131,21 @@ const About = () => {
     'SentinelOne EDR/XDR',
     'CrowdStrike Falcon',
     'FortiEDR, FortiSIEM, FortiOS, FortiDeceptor',
-    'Swimlane SOAR',
+    'Cobalt Strike',
     'Metasploit',
-    'Kali Linux',
-    'LogRhythm SIEM',
+    'Empire/Starkiller',
+    'Burp Suite Pro',
     'NMAP',
     'Wireshark',
   ];
   const concepts = [
     'Risk Assessment & Management',
     'Systems Engineering',
-    'Network Security',
+    'Exploit Development',
     'Incident Handling',
-    'Basic Penetration Testing',
-    'Working Python Knowledge',
-    'Working Powershell Knowledge',
+    'Penetration Testing',
+    'Red Team Operations',
+    'Adversary Emulation & Simulation',
     'Meme Development',
   ];
 
@@ -165,15 +165,17 @@ const About = () => {
             </p>
 
             <p>
-              My past experience makes me a valuable asset to your business, with experience in
-              Network and Systems Engineering as well as Full Spectrum Managed Services.
+              While my career is shifting more torwards the offensive operations and
+              red team side of the house, my previous experience on the defensive side
+              along with network and systems engineering gives me a fantastic background
+              as a more experienced red team operator.
             </p>
             <p>
               Whenever I have time, I enjoy furthering my education with a fully equipped
               <strong> Home Lab</strong> which includes a{' '}
               <strong> FortiGate Firewall and Switch</strong>, <strong>ESXi Hypervisor</strong> with
               <strong> Pentesting OSes</strong> and <strong> Log Management</strong> in addition to{' '}
-              <strong> TryHackMe</strong> and <strong> HackTheBox</strong> to continuously expand my
+              <strong> TryHackMe</strong> and <strong> Hack The Box</strong> to continuously expand my
               skill set.
             </p>
 
