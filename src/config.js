@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/w33ts',
+      url: 'https://twitter.com/w33t_io',
     },
     {
       name: 'HackTheBox',
