@@ -68,7 +68,7 @@ const Hero = () => {
         I am a India based Information Cybersecurity professional with a passion for cybersecurity
         and offensive security. Currently, I’m focused on protecting a secure working environment to
         enable the advancement of electricity generation at{' '}
-        <a href="https://www.epri.com/" target="_blank" rel="noreferrer">
+        <a href="https://zenithmen.surge.sh/" target="_blank" rel="noreferrer">
           EPRI
         </a>
         .
