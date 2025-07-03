@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'me@w33t.io',
+  email: 'gourab.cyber26@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/w33ts',
+      url: 'https://github.com/3ch0x',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/w33t',
+      url: 'https://www.linkedin.com/in/gourabdasgupta/',
     },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/w33t_io',
+    // },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/w33t_io',
-    },
-    {
-      name: 'HackTheBox',
-      url: 'https://app.hackthebox.com/profile/353518',
+      name: 'IconBlog',
+      url: 'https://gourabdg47.github.io/',
     },
     {
       name: 'TryHackMe',
-      url: 'https://tryhackme.com/p/w33t',
+      url: 'https://tryhackme.com/p/x3CH0',
     },
   ],
 

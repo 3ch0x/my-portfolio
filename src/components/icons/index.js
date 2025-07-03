@@ -15,3 +15,5 @@ export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
 export { default as IconHackTheBox } from './hackthebox';
 export { default as IconTryHackMe } from './tryhackme';
+
+export { default as IconBlog } from './blog';

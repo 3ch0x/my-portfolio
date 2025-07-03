@@ -17,10 +17,13 @@ import {
   IconTwitter,
   IconHackTheBox,
   IconTryHackMe,
+  IconBlog,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
   switch (name) {
+    case 'IconBlog':
+      return <IconBlog />;
     case 'AppStore':
       return <IconAppStore />;
     case 'Bookmark':
