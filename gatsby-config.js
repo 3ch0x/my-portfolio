@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Aaron Fillmore',
+    title: 'Gourab Dasgupta',
     description:
-      'Aaron is a cybersecurity professional with extensive experience in a variety of industry verticals.',
+      'Gourab Dasgupta is a cybersecurity professional with a software development background, adept at threat hunting and network safety, backed by extensive experience in building a SOC home lab, securing backend APIs, and various cybersecurity certifications.',
     siteUrl: 'https://w33t.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'w33ts',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Aaron Fillmore',
-        short_name: 'Aaron Fillmore',
+        name: 'Gourab Dasgupta',
+        short_name: 'Gourab Dasgupta',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

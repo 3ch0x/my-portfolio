@@ -60,14 +60,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hello! My name is</h1>;
-  const two = <h2 className="big-heading">Aaron Fillmore.</h2>;
+  const two = <h2 className="big-heading">Gourab Dasgupta.</h2>;
   const three = <h3 className="big-heading">I'm a cybersecurity professional.</h3>;
   const four = (
     <>
       <p>
-        I am a United States based Information Security Engineer with a passion for cybersecurity
-        and offensive security. Currently, I’m focused on protecting a
-        secure working environment to enable the advancement of electricity generation at{' '}
+        I am a India based Information Cybersecurity professional with a passion for cybersecurity
+        and offensive security. Currently, I’m focused on protecting a secure working environment to
+        enable the advancement of electricity generation at{' '}
         <a href="https://www.epri.com/" target="_blank" rel="noreferrer">
           EPRI
         </a>
@@ -76,7 +76,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a className="email-link" href="https://cyber.info" target="_blank" rel="noreferrer">
+    <a className="email-link" href="https://zenithmen.surge.sh/" target="_blank" rel="noreferrer">
       Check out my nonprofit!
     </a>
   );
