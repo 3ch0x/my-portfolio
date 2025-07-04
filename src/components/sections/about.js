@@ -133,8 +133,7 @@ const About = () => {
     'FortiEDR, FortiSIEM, FortiOS, FortiDeceptor',
     'Cobalt Strike',
     'Metasploit',
-    'Empire/Starkiller',
-    'Burp Suite Pro',
+    'Burp Suite Basic',
     'NMAP',
     'Wireshark',
   ];

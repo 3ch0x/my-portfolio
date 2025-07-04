@@ -66,12 +66,16 @@ const Hero = () => {
     <>
       <p>
         I am a India based Information Cybersecurity professional with a passion for cybersecurity
-        and offensive security. Currently, I’m focused on protecting a secure working environment to
-        enable the advancement of electricity generation at{' '}
-        <a href="https://zenithmen.surge.sh/" target="_blank" rel="noreferrer">
-          EPRI
-        </a>
-        .
+        and offensive security. I recently passed the{' '}
+        <a
+          href="https://drive.google.com/file/d/1WTRYoll7f2gcs-YihJjdfL3fRo8r970Y/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer">
+          CompTIA Security+ certification
+        </a>{' '}
+        along with few other certificates. Currently I am preparing for SC-200 certification exam,
+        TryHackMe SOC Analyst learning path, learning, practicing as much I can and looking for
+        opportunities in cybersecurity
       </p>
     </>
   );
