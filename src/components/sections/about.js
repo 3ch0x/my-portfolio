@@ -165,18 +165,18 @@ const About = () => {
             </p>
 
             <p>
-              While my career is shifting more torwards the offensive operations and
-              red team side of the house, my previous experience on the defensive side
-              along with network and systems engineering gives me a fantastic background
-              as a more experienced red team operator.
+              While my career is shifting more torwards the offensive operations and red team side
+              of the house, my previous experience on the defensive side along with network and
+              systems engineering gives me a fantastic background as a more experienced red team
+              operator.
             </p>
             <p>
               Whenever I have time, I enjoy furthering my education with a fully equipped
               <strong> Home Lab</strong> which includes a{' '}
               <strong> FortiGate Firewall and Switch</strong>, <strong>ESXi Hypervisor</strong> with
               <strong> Pentesting OSes</strong> and <strong> Log Management</strong> in addition to{' '}
-              <strong> TryHackMe</strong> and <strong> Hack The Box</strong> to continuously expand my
-              skill set.
+              <strong> TryHackMe</strong> and <strong> Hack The Box</strong> to continuously expand
+              my skill set.
             </p>
 
             <p>
@@ -202,7 +202,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.webp"
+              src="../../images/me.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
