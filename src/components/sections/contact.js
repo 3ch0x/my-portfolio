@@ -60,8 +60,10 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        While I currently am happily employed and don't have much time to commit to anything new,
-        please reach out if you'd like to have a chat! I'm always happy to network with new people.
+        I'm eager to explore new opportunities within SOC, Threat Intelligence and OSINT,
+        considering full-time, part-time or contract positions to further my skills. If you'd simply
+        like to chat, please don't hesitate to reach out. I'm always happy to network with new
+        people.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

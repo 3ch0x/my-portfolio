@@ -130,16 +130,21 @@ const About = () => {
     'Splunk',
     'Wazuh',
     'EDR/XDR',
+    'Wireshark',
+    'OPNSense Firewall',
+    'OpenCTI',
+    'OSINT',
+    'NMAP',
     'Metasploit',
     'Burp Suite Basic',
-    'NMAP',
-    'Wireshark',
+    'Python',
+    'SQL/KQL/SPL',
   ];
   const concepts = [
     'Risk Assessment & Management',
     'Systems Design',
     'Incident Handling',
-    'Jr. Penetration Testing',
+    'Basic Penetration Testing',
   ];
 
   return (
