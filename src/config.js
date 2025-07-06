@@ -12,7 +12,7 @@ module.exports = {
     },
     // {
     //   name: 'Twitter',
-    //   url: 'https://twitter.com/w33t_io',
+    //   url: 'https://twitter.com/myUserName',
     // },
     {
       name: 'IconBlog',

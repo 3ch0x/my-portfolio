@@ -5,9 +5,9 @@ module.exports = {
     title: 'Gourab Dasgupta',
     description:
       'Gourab Dasgupta is a cybersecurity professional with a software development background, adept at threat hunting and network safety, backed by extensive experience in building a SOC home lab, securing backend APIs, and various cybersecurity certifications.',
-    siteUrl: 'https://w33t.io', // No trailing slash allowed!
+    siteUrl: 'https://gourab-portfolio-26.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: 'w33ts',
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
