@@ -155,10 +155,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I've been referred to as an “geeky” because of my love for technology and security.
-              Since I was a child, I've been tinkering with computers, bypassing security measures
-              and learning new things. I'm actively learning and gaining experience with a vast
-              array of <strong>SIEMs, SOARs, EDR/XDR Platforms</strong> and{' '}
+              I've been referred to as “geeky” because of my love for technology and security. Since
+              I was a child, I've been tinkering with computers, bypassing security measures and
+              learning new things. I'm actively learning and gaining experience with a vast array of{' '}
+              <strong>SIEMs, SOARs, EDR/XDR Platforms</strong> and{' '}
               <strong>Pentesting Tools.</strong>
             </p>
 
