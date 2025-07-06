@@ -128,10 +128,8 @@ const About = () => {
 
   const skills = [
     'Splunk',
-    'SentinelOne EDR/XDR',
-    'CrowdStrike Falcon',
-    'FortiEDR, FortiSIEM, FortiOS, FortiDeceptor',
-    'Cobalt Strike',
+    'Wazuh',
+    'EDR/XDR',
     'Metasploit',
     'Burp Suite Basic',
     'NMAP',
@@ -139,13 +137,9 @@ const About = () => {
   ];
   const concepts = [
     'Risk Assessment & Management',
-    'Systems Engineering',
-    'Exploit Development',
+    'Systems Design',
     'Incident Handling',
-    'Penetration Testing',
-    'Red Team Operations',
-    'Adversary Emulation & Simulation',
-    'Meme Development',
+    'Jr. Penetration Testing',
   ];
 
   return (
@@ -156,31 +150,31 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I’ve been referred to as an “ultra geek” because of my love for technology and
-              security. Since I was a child, I’ve been tinkering with computers, bypassing my
-              father’s security measures and learning new things. I have in depth experience with a
-              vast array of <strong> SIEMs, SOARs, EDR/XDR Platforms</strong> and{' '}
-              <strong> Pentesting Tools</strong>.
+              I've been referred to as an “geeky” because of my love for technology and security.
+              Since I was a child, I've been tinkering with computers, bypassing my basic security
+              measures and learning new things. I'm actively learning and gaining experience with a
+              vast array of <strong>SIEMs, SOARs, EDR/XDR Platforms</strong> and{' '}
+              <strong>Pentesting Tools.</strong>
             </p>
 
             <p>
-              While my career is shifting more torwards the offensive operations and red team side
-              of the house, my previous experience on the defensive side along with network and
-              systems engineering gives me a fantastic background as a more experienced red team
-              operator.
+              Leveraging my background in AI/ML, Python, hands-on experience with endpoint analysis
+              & phishing simulations, I am exceptionally positioned for a blue team role, with a
+              long-term trajectory toward advanced red team operations.
             </p>
             <p>
               Whenever I have time, I enjoy furthering my education with a fully equipped
-              <strong> Home Lab</strong> which includes a{' '}
-              <strong> FortiGate Firewall and Switch</strong>, <strong>ESXi Hypervisor</strong> with
-              <strong> Pentesting OSes</strong> and <strong> Log Management</strong> in addition to{' '}
+              <strong> Home Lab</strong> which includes a <strong> OPNsense Firewall </strong>,{' '}
+              <strong>KVM - Type-1 hypervisor</strong> with
+              <strong> Pentesting OS</strong> and <strong> Log Management</strong> in addition to{' '}
               <strong> TryHackMe</strong> and <strong> Hack The Box</strong> to continuously expand
               my skill set.
             </p>
 
             <p>
-              Recently, I <a href="https://cyber.info">launched a nonprofit</a> that aims to empower
-              career growth with easy access to cybersecurity education.
+              Recently, I <a href="https://zenithmen.surge.sh/">launched a nonprofit</a> that aims
+              at breaking the silence on men's mental health. Creating a supportive community where
+              vulnerability becomes strength.
             </p>
 
             <p>These are technologies that I have experience with:</p>
