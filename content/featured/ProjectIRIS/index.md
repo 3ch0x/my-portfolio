@@ -1,14 +1,15 @@
 ---
 date: '1'
-title: 'IRIS'
+title: 'Security+ Quiz'
 cover: './cm-webp.webp'
 tech:
-  - Zabbix
-  - SQL
-  - nginx
-  - CentOS 8
-  - vLANs
+  - HTML
+  - CSS
+  - JS
+  - Git
 ---
 
-Imprezzio Realtime Information System was a highly-available monitoring solution I built, running on CentOS 8 and utilizing Zabbix for enterprise tech stack visibility. The highly-available nature relied on redundant SQL servers,
-as well as redundant nginx servers for handling inbound connection requests.
+I've put together a <strong>Free security+ practice quiz</strong> web app along with curated study resources to support others on their certification journey.
+These are the same resources and references I used to pass my exam and honestly, I wish I'd had access to a mock test like this when I was preparing.</br>
+<strong>2.5k+ Users</strong> </br>
+<a href="https://gourabdg47.github.io/assets/projects/security_exam_quiz/index.html" >Check Out !</a>
